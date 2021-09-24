@@ -1,0 +1,7 @@
+santas\spy\chests\SellChest.class
+santas\spy\listeners\ChestPlaceListener.class
+santas\spy\AutoSell.class
+santas\spy\chests\ChestList.class
+santas\spy\chests\SellChest$1.class
+santas\spy\listeners\ChestBreakListener.class
+santas\spy\listeners\CommandListener.class

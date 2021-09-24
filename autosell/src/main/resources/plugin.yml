@@ -1,0 +1,11 @@
+main: santas.spy.AutoSell
+name: AutoSell
+version: 0.0.1
+api-version: 1.17
+author: SantasSpy
+description: Provides autosell chests to you, and your players at the cost of my sanity
+depend: [Vault,Multiverse-Core]
+load: POSTWORLD
+commands:
+  autosell:
+    description: Automatically sells things

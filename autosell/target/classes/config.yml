@@ -1,0 +1,15 @@
+# AutoSell by Santas_Spy
+# for more info visit: <wiki link>
+# plugin page: <spigot page>
+# for further help, contact me at <plugin discord>
+
+# Debug Level
+# 0 = normal operation
+# 1 = logs contents of chests being sold and their prices
+# 2 = logs everything
+debug-level: 0
+
+# Chest Timer
+# The delay (in ticks) between the chests attempting to sell their contents
+chest-timer: 200
+
